@@ -1,8 +1,8 @@
-def using_push(array,element)
+def using_push(array,string)
   array.push(element)
 end
 
-def using_unshift(array,element)
+def using_unshift(array,string)
   array.unshift(element)
 end
 
