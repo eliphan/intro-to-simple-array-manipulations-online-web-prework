@@ -20,6 +20,7 @@ end
 
 def shift_with_args
   array.shift(2)
+  array
 end
 
 def using_concat(array,arr)
